@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Kervin Gino M. Sarsonas
 
-Passionate IT student currently studying in Cebu Institute of Technology (BSIT), exploring technology, coding, and building projects that solve real-world problems.
+Passionate IT student currently studying in Cebu Institute of Technology (BSIT), exploring technology, coding, and just enjoying my remaining years in college.
 
 ### 💻 About Me
 
