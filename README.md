@@ -5,7 +5,7 @@ Passionate IT student currently studying in Cebu Institute of Technology (BSIT),
 ### 💻 About Me
 
 - **Name:** Kervin Gino M. Sarsonas  
-- **Currently Studying:** BSIT at Cebu Institute of Technology  
+- **Currently Studying:** BSIT at Cebu Institute of Technology-University
 - **Interests:** Mobile app development, OOP, PC building, tech innovation  
 - **Skills:** Kotlin, Java, JavaScript, ReactJS, Spring Boot, Android development  
 - **Projects:** Solo app project GenBuilds, collaborative OOP1 & OOP2 projects, + many more to come!
