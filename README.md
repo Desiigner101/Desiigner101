@@ -41,7 +41,7 @@ Passionate IT student currently studying in Cebu Institute of Technology (BSIT),
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Desiigner101&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Desiigner101&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
