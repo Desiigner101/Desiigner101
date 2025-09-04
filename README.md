@@ -20,12 +20,9 @@ Passionate IT student currently studying in Cebu Institute of Technology (BSIT),
 
 </div>
 
-
-
-
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Desiigner101&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=desiigner101&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
 
@@ -39,7 +36,7 @@ Passionate IT student currently studying in Cebu Institute of Technology (BSIT),
 
 # 🔝 Top Contributed Repo
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Desiigner101&limit=5&theme=onedark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=desiigner101&limit=5&theme=swift&combine_all_yearly_contributions=true" />
 </div>
 
 
