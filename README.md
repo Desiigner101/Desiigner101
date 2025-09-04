@@ -11,8 +11,11 @@ Passionate IT student currently studying in Cebu Institute of Technology (BSIT),
 - **Projects:** Solo app project GenBuilds, collaborative OOP1 & OOP2 projects, + many more to come!
 
 
+<div align="center">
 
-# 💻 Tech Stack:
+<h1>Tech Stack</h1>
+
+</div>
 <div align="center">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
