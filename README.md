@@ -14,11 +14,13 @@ Passionate IT student currently studying in Cebu Institute of Technology (BSIT),
 <div align="center">
 
 <h1>Tech Stack</h1>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,javascript,kotlin,python,mysql,html,css,react,tailwindcss,bootstrap,git,github,postman,vite,spring,vscode,idea,androidstudio" />
-  </a>
+<div style="text-align: center;">
+
+[![Tech Stack](https://skillicons.dev/icons?i=c,java,javascript,kotlin,python,mysql,html,css,react,tailwindcss,bootstrap,git,github,postman,vite,spring,vscode,idea,androidstudio&perline=6)](https://skillicons.dev)
+
 </div>
+
+
 
 
 <div align="center">
