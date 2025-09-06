@@ -8,7 +8,7 @@ Passionate IT student currently studying in Cebu Institute of Technology-Univers
 - **Currently Studying:** BSIT at Cebu Institute of Technology-University
 - **Interests:** Mobile app development, OOP, PC building, tech innovation  
 - **Skills:** Kotlin, Java, JavaScript, ReactJS, Spring Boot, Android development  
-- **Projects:** Solo app project GenBuilds, collaborative OOP1 & OOP2 projects, + many more to come!
+- **Projects:** Solo app project GenBuilds, collaborative OOP1 & OOP2 projects, Web Application Projects.
 
 <div align="center">
 
