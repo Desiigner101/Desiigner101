@@ -10,7 +10,6 @@ Passionate IT student currently studying in Cebu Institute of Technology-Univers
 - **Skills:** Kotlin, Java, JavaScript, ReactJS, Spring Boot, Android development  
 - **Projects:** Solo app project GenBuilds, collaborative OOP1 & OOP2 projects, + many more to come!
 
-
 <div align="center">
 
 <h1>Tech Stack</h1>
