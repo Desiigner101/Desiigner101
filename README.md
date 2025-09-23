@@ -15,7 +15,7 @@ Passionate IT student currently studying in Cebu Institute of Technology-Univers
 <h1>Tech Stack</h1>
 <div style="text-align: center;">
 
-[![Tech Stack](https://skillicons.dev/icons?i=c,java,javascript,kotlin,python,mysql,html,css,react,vite,tailwindcss,bootstrap,git,github,postman,spring,vscode,idea,androidstudio&perline=6)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=c,java,javascript,kotlin,python,django,mysql,html,css,react,vite,tailwindcss,bootstrap,git,github,postman,spring,vscode,idea,androidstudio&perline=6)](https://skillicons.dev)
 
 </div>
 
