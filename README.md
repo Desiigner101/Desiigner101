@@ -40,7 +40,7 @@ Passionate IT student currently studying in Cebu Institute of Technology-Univers
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Desiigner101&icon=2&color=12)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Desiigner101)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
