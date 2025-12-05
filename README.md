@@ -17,6 +17,10 @@ Passionate IT student currently studying in Cebu Institute of Technology-Univers
 
 [![Tech Stack](https://skillicons.dev/icons?i=c,java,javascript,kotlin,python,django,mysql,html,css,react,vite,tailwindcss,bootstrap,git,github,postman,spring,vscode,idea,androidstudio&perline=6)](https://skillicons.dev)
 
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=desiigner101&layout=compact" />
+</div>
+
 </div>
 
 <div align="center">
@@ -25,11 +29,11 @@ Passionate IT student currently studying in Cebu Institute of Technology-Univers
 
 </div>
 
-#  GitHub Stats:
+# GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=desiigner101&theme=swift&hide_border=false&include_all_commits=false&count_private=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=desiigner101" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=desiigner101&theme=swift&hide_border=false" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=desiigner101" />
 </div>
 
 
