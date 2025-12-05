@@ -24,8 +24,8 @@ val developer = Developer(
         "PC Building",
         "Tech Innovation"
     ),
-    currentFocus = "Building innovative mobile applications",
-    funFact = "Enjoying my remaining years in college"
+    currentFocus = "Building innovative problem solving applications",
+    currentMotive = "Enjoying my remaining years in college"
 )
 ```
 
