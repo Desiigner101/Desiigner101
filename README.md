@@ -120,7 +120,7 @@ Various web application projects utilizing modern frameworks and technologies
 
 <div align="center">
   
-### "Code is like humor. When you have to explain it, it's bad." – Cory House
+### "I eat, sleep, code, and play dota!"
 
 **From [desiigner101](https://github.com/desiigner101)**
 
