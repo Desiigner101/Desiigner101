@@ -108,9 +108,9 @@ Various web application projects utilizing modern frameworks and technologies
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gino-sarsonas-4479a52a4/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desiigner4074@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.facebook.com/gino.sarsonas)
 
 <img src="https://komarev.com/ghpvc/?username=desiigner101&style=for-the-badge&color=blue" alt="Profile Views" />
 
