@@ -81,6 +81,10 @@ Various web application projects utilizing modern frameworks and technologies
 
 </div>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=desiigner101&theme=radical" />
+</p>
+
 ---
 
 ## GitHub Statistics
