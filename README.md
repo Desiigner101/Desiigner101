@@ -103,9 +103,11 @@ Various web application projects utilizing modern frameworks and technologies
 
 ## GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=desiigner101&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4" />
-</div>
+<p align='center'>
+<!-- <img src='https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&column=6'> -->
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=desiigner101&theme=dracula&column=11'>
+</p>
+
 
 ---
 
