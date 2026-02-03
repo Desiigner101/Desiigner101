@@ -114,7 +114,7 @@ Various web application projects utilizing modern frameworks and technologies
 
 <div align="center">
   
-### "I eat, sleep, code, and play dota!"
+### "I eat, sleep, code, and play cs2!"
 
 **From [desiigner101](https://github.com/desiigner101)**
 
