@@ -18,7 +18,7 @@
 <br/>
 
 <!-- ===================== ABOUT ===================== -->
-## 🧑‍💻 About Me
+##  About Me
 
 ```kotlin
 val developer = Developer(
@@ -41,19 +41,19 @@ val developer = Developer(
 <br/>
 
 <!-- ===================== PROJECTS ===================== -->
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| 🤟 **AkAI** | A two-way Filipino Sign Language assistant bridging Deaf & hearing users — real-time FSL sign recognition and offline speech-to-text on one device. **Live on Google Play.** | `Kotlin` `TensorFlow` `MediaPipe` |
-| 📱 **GenBuilds** | A comprehensive solo Android application showcasing modern mobile development practices. | `Kotlin` `Android` |
-| 🧩 **OOP Projects** | Collaborative object-oriented programming projects (OOP1 & OOP2) demonstrating solid software design principles. | `Java` |
-| 🌐 **Web Applications** | Various full-stack web projects built with modern frameworks and technologies. | `React` `Spring Boot` `MySQL` |
+|  **AkAI** | A two-way Filipino Sign Language assistant bridging Deaf & hearing users — real-time FSL sign recognition and offline speech-to-text on one device. **Live on Google Play.** | `Kotlin` `TensorFlow` `MediaPipe` |
+|  **GenBuilds** | A comprehensive solo Android application showcasing modern mobile development practices. | `Kotlin` `Android` |
+|  **OOP Projects** | Collaborative object-oriented programming projects (OOP1 & OOP2) demonstrating solid software design principles. | `Java` |
+|  **Web Applications** | Various full-stack web projects built with modern frameworks and technologies. | `React` `Spring Boot` `MySQL` |
 
 <br/>
 
 <!-- ===================== TECH STACK ===================== -->
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -104,7 +104,7 @@ val developer = Developer(
 <br/>
 
 <!-- ===================== STATS ===================== -->
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -119,7 +119,7 @@ val developer = Developer(
 <br/>
 
 <!-- ===================== TROPHIES ===================== -->
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=desiigner101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
@@ -137,7 +137,7 @@ val developer = Developer(
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-> *"I eat, sleep, code, and play A lot!"* 🎮
+> *"I eat, sleep, code, and play A lot!"* 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
