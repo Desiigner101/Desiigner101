@@ -1,14 +1,20 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kervin%20Gino%20M.%20Sarsonas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSIT%20Student%20•%20Mobile%20%26%20Full-Stack%20Developer%20•%20ML%20Enthusiast&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kervin%20Gino%20M.%20Sarsonas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%E2%80%A2%20Software%20%E2%80%A2%20Backend%20%E2%80%A2%20Android%20Developer&descSize=18&descAlignY=58" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Full+Stack+Enthusiast;Machine+Learning+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=I+ship+real+software%2C+not+just+class+projects;Machine+Learning+%26+Mobile+Developer;AkAI+is+live+on+Google+Play;Open+to+internship+%2F+OJT+opportunities" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/desiigner101">
   <img src="https://img.shields.io/badge/GitHub-desiigner101-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/kervingino-sarsonas/">
+  <img src="https://img.shields.io/badge/LinkedIn-Kervin%20Gino%20Sarsonas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://desiignerportfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Live-2E9EF7?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=desiigner101&style=flat-square&color=2E9EF7&label=Profile+Views" />
 <img src="https://img.shields.io/badge/Location-Cebu%20City,%20PH-2E9EF7?style=flat-square&logo=googlemaps&logoColor=white" />
@@ -18,76 +24,81 @@
 <br/>
 
 <!-- ===================== ABOUT ===================== -->
-##  About Me
+## About Me
 
 ```kotlin
 val developer = Developer(
     name = "Kervin Gino M. Sarsonas",
-    university = "Cebu Institute of Technology-University",
-    program = "Bachelor of Science in Information Technology",
+    role = "AI/ML • Software • Backend • Android Developer",
+    university = "Cebu Institute of Technology - University",
+    program = "BS in Information Technology (4th Year)",
     location = "Cebu City, Philippines",
-    interests = listOf(
-        "Mobile App Development",
-        "Machine Learning",
-        "Object-Oriented Programming",
-        "PC Building",
-        "Tech Innovation"
+    focus = listOf(
+        "Machine Learning & on-device AI",
+        "Android development (Kotlin)",
+        "Full-stack & backend systems"
     ),
-    currentFocus = "Building an FSL sign-language recognition system (AkAI)",
-    currentMotive = "Enjoying my remaining years in college"
+    shipped = "AkAI — a Filipino Sign Language assistant, live on Google Play",
+    status = "Open to AI/ML and software internship (OJT) opportunities"
 )
 ```
+
+> I like building AI and software that actually ships, not demos that stay on my laptop.
 
 <br/>
 
 <!-- ===================== PROJECTS ===================== -->
-##  Featured Projects
+## Featured Projects
 
-| Project | Description | Tech |
+| Project | What it does | Tech |
 | :--- | :--- | :--- |
-|  **AkAI** | A two-way Filipino Sign Language assistant bridging Deaf & hearing users — real-time FSL sign recognition and offline speech-to-text on one device. **Live on Google Play.** | `Kotlin` `TensorFlow` `MediaPipe` |
-|  **GenBuilds** | A comprehensive solo Android application showcasing modern mobile development practices. | `Kotlin` `Android` |
-|  **OOP Projects** | Collaborative object-oriented programming projects (OOP1 & OOP2) demonstrating solid software design principles. | `Java` |
-|  **Web Applications** | Various full-stack web projects built with modern frameworks and technologies. | `React` `Spring Boot` `MySQL` |
+| **AkAI** &nbsp;·&nbsp; [Google Play](https://play.google.com/store/apps/details?id=com.akai) | Two-way Filipino Sign Language assistant bridging Deaf and hearing users. On-device **64-class LSTM** (TensorFlow → TensorFlow Lite) for real-time sign recognition + offline speech-to-text. Validated with **30 users**. | `Kotlin` `TensorFlow` `MediaPipe` `LSTM` |
+| **QuickInvoice** | Full-stack invoicing platform: 10 templates, PDF/email generation, Stripe subscriptions. React + Vite web client and a native Kotlin Android app on a Spring Boot + MongoDB API. | `React` `Spring Boot` `Kotlin` `Stripe` |
+| **GenBuild POS** | PC-parts compatibility picker and retail point-of-sale system, built as both an Android app and a React + Spring Boot web platform. | `Kotlin` `React` `Spring Boot` |
+| **EquiTrack** | Personal finance tracker with interactive dashboards, visualizations, and dynamic filters. | `React` `Vite` `Spring Boot` `PostgreSQL` |
+| **Stunotes** | Student productivity web app for assignments, deadlines, and class notes. | `Django` `Python` `Supabase` |
 
 <br/>
 
 <!-- ===================== TECH STACK ===================== -->
-##  Tech Stack
+## Tech Stack
 
 <div align="center">
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 **Machine Learning & Data**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TF_Lite-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-%230097A7.svg?style=for-the-badge&logo=google&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Frontend**
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+**Mobile & Frontend**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Frameworks**
+**Backend & Data**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools & IDEs**
 
@@ -104,7 +115,7 @@ val developer = Developer(
 <br/>
 
 <!-- ===================== STATS ===================== -->
-##  GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -119,7 +130,7 @@ val developer = Developer(
 <br/>
 
 <!-- ===================== TROPHIES ===================== -->
-##  GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=desiigner101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
@@ -137,7 +148,11 @@ val developer = Developer(
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-> *"I eat, sleep, code, and play A lot!"* 
+### Let's build something real.
+
+<a href="https://www.linkedin.com/in/kervingino-sarsonas/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://desiignerportfolio.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+<a href="mailto:desiigner4074@gmail.com">Email</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
